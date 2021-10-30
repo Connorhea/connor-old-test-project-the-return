@@ -12,7 +12,7 @@
 url: https://github.com/connorhea 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /testthereturn
+baseurl: /connor-old-test-project-the-return
 # location of code, the full url to your github repository
 source-code: https://github.com/connorhea/testthereturn
 
